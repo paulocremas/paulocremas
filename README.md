@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello there! I'm Paulo Piva 👋
+### Bachelor’s in Computer Science 🎓 | Data Engineer 🔧
 
-<!--
-**paulocremas/paulocremas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data-driven professional with expertise in **Data Engineering**, **Cloud Computing**, and **Artificial Intelligence**.
+What makes me stand out, is my capacity to **learn and adjust new technologies quickly**, choosing the most appropriate tools for each specific project.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Skills
+
+- Advanced **data scraping** and **web automation** 
+- Scalable and resilient **ETL & pipeline development**
+- **API integrations**
+- **Cloud-native architectures**
+- **AI & Machine Learning**
+
+---
+
+## 📂 Projects
+
+<!--START_SECTION:repos-->
+<!--END_SECTION:repos-->
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/pivapaulo/)
+- ✉️ [Gmail](mailto:cremascopaulo@gmail.com)
+- 📄 [Download my resume](https://docs.google.com/document/d/170Cuhbs8twijALx1ZHLkHV2Ib7kEKWfXNKetOseSi4A/export?format=pdf)
