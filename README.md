@@ -6,7 +6,7 @@ What makes me stand out, is my capacity to **learn and adjust new technologies q
 
 ---
 
-### ✨ Skills
+## ✨ Skills
 
 - Advanced **data scraping** and **web automation** 
 - Scalable and resilient **ETL & pipeline development**
