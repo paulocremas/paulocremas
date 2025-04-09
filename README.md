@@ -27,6 +27,9 @@ What makes me stand out, is my capacity to **learn and adjust new technologies q
 - [Linx E-commerce to Google BigQuery](https://github.com/paulocremas/linx-etl-gbq)
 - [VTEX E-commerce to Google BigQuery](https://github.com/paulocremas/vtex-etl-gbq)
 
+#### Other projects:
+- [To-do list made in ReactJS](https://github.com/paulocremas/todo-list-whatsmenu) / [Click here to access the live project on Vercel](https://todo-list-whatsmenu.vercel.app/)
+
 ---
 
 ## 🤝 Let's Connect
