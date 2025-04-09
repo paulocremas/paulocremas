@@ -16,7 +16,7 @@ What makes me stand out, is my capacity to **learn and adjust new technologies q
 
 ---
 
-## 📂 Projects
+## 📂 Portfolio
 
 #### Data Automation:
 - [Parsing Human-Entered Spreadsheet Marks into Analytics Datasets](https://github.com/paulocremas/tratamentos-particulares-amil)
