@@ -6,7 +6,7 @@ What makes me stand out, is my capacity to **learn and adjust new technologies q
 
 ---
 
-## ✨ Skills
+### ✨ Skills
 
 - Advanced **data scraping** and **web automation** 
 - Scalable and resilient **ETL & pipeline development**
@@ -16,7 +16,7 @@ What makes me stand out, is my capacity to **learn and adjust new technologies q
 
 ---
 
-## 📂 Portfolio
+### 📂 Portfolio
 
 #### Data Automation:
 - [Parsing Human-Entered Spreadsheet Marks into Analytics Datasets](https://github.com/paulocremas/tratamentos-particulares-amil)
@@ -32,7 +32,7 @@ What makes me stand out, is my capacity to **learn and adjust new technologies q
 
 ---
 
-## 🤝 Let's Connect
+### 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pivapaulo/)
 - ✉️ [Gmail](mailto:cremascopaulo@gmail.com)
