@@ -20,6 +20,7 @@ What makes me stand out, is my capacity to **learn and adjust new technologies q
 
 #### Data Automation:
 - [Parsing Human-Entered Spreadsheet Marks into Analytics Datasets](https://github.com/paulocremas/tratamentos-particulares-amil)
+- [Google Sheets CRM Data Integration Automation](https://github.com/paulocremas/pipedrive-rdstation-data-integration)
 
 #### Data Scraping:
 
