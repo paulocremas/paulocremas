@@ -1,18 +1,17 @@
-# Hello there! I'm Paulo Piva 👋
-### Bachelor’s in Computer Science 🎓 | Data Engineer 🔧
+# Hello there! I'm Paulo 👋
+### Bachelor’s in Computer Science 🎓 | AI Engineer 🤖
 
-I'm a data-driven professional with expertise in **Data Engineering**, **Cloud Computing**, and **Artificial Intelligence**.
-What makes me stand out, is my capacity to **learn and adjust new technologies quickly**, choosing the most appropriate tools for each specific project.
+I'm a data-driven professional with expertise in **Artificial Intelligence**, **Data Engineering**, and **Cloud Computing**.  
+What makes me stand out is my capacity to **learn and adjust new technologies quickly**, choosing the most appropriate tools for each specific project.
 
 ---
 
 ### ✨ Skills
 
+- **AI & Machine Learning**
 - Advanced **data scraping** and **web automation** 
 - Scalable and resilient **ETL & pipeline development**
 - **API integrations**
-- **Cloud-native architectures**
-- **AI & Machine Learning**
 
 ---
 
